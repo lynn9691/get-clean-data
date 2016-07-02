@@ -1,5 +1,8 @@
 # get-clean-data
-Course project of the coursera course "getting and cleaning data"
+Course project of the coursera course "getting and cleaning data".
+The run_analysis.R is the script and the CodeBook.md explains how the script works.
+
+
 First, read in the data set;
 Second, merge the train and test data sets into one;
 Then using grep() to extract the features which are means or stds, and rename the columns by the feature names;
